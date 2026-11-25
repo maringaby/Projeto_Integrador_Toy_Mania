@@ -1,0 +1,3 @@
+uploads/produtos/*
+!uploads/produtos/.htaccess
+!uploads/produtos/.gitkeep
